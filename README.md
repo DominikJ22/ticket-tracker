@@ -3,28 +3,30 @@ Need a ticket tracker? Use this app to keep up with customer needs and sort out 
 
 **Link to live project:** https://ticket-txk1.onrender.com/
 
-**Link to repository:** https://github.com/DominikJ22/ticket-tracker
-
 <p align="center">
-<img width="400" src="./gifs/ticket.gif" alt="ticket.gif"/> 
+<img src="./gifs/ticket.gif" alt="ticket.gif"/> 
 </p>
 
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Bootstrap, and EJS
+**Tech used:** HTML, CSS, JavaScript, EJS, Express, Node, and  MongoDB. 
 
-I used an MVC structure to organize my application. 
+I created a ticket track application that users can use to illustrate problems they may have with any of my projects. I find this app useful in taking in feedback from my website clients and individuals that use my apps.
 
 ## Optimizations
-*(optional)*
-
+I used bootstrap to make sure their is a simple color interface for users and I have provided a variety of options to illustrate issues.
 
 ## Lessons Learned:
 
-In building this app I learned how to use EJS and create an application
+In building this app I learned how to effectivly use EJS and form an app using older version of code into a fullstack application.
+I learned how to use EJS syntax and connect it to my MongoDB database.
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**other:** 
+**Dont Forget:** https://github.com/DominikJ22/notes 
+
+**JavX:** https://github.com/DominikJ22/JavX
+
+**Invincible:** https://github.com/DominikJ22/invincble-app
